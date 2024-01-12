@@ -12,7 +12,10 @@
 
 @import "components/demo";
 @import "components/button";
-@import "components/components.scss";
+@import "components/components";
+@import "pages/index";
+@import "pages/single-page";
+@import "hacks/add-product";
 
 $background-color: silver;
 
